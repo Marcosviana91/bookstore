@@ -1,3 +1,2 @@
-from django.db import models
-
-# Create your models here.
+# Import your models here.
+from .order import Order

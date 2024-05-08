@@ -1,3 +1,3 @@
-from django.db import models
-
-# Create your models here.
+# import your models here.
+from .product import Product
+from .category import Category
